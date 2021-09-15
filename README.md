@@ -50,9 +50,8 @@
 
 ## ⚡ GitHub Stats
 
-<a href="https://github.com/leomoreno8">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leomoreno8&show_icons=true&theme=radical" alt="Github status" />
- </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leomoreno8&show_icons=true&theme=radical" alt="Github status" />
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno8&hide=TeX&layout=compact)
 
  
