@@ -17,8 +17,6 @@
 ## 🚀 Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -52,7 +50,9 @@
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=leomoreno8&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+<a href="https://github.com/leomoreno8">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leomoreno8&show_icons=true&theme=radical" alt="Github status" />
+ </a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno8&hide=TeX&layout=compact)
 
  
