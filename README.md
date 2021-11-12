@@ -60,8 +60,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sinistro&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leomoreno8&show_icons=true&theme=radical" alt="Github status" />
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno8&hide=TeX&layout=compact)
 
  
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></small></p> -->
