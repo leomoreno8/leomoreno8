@@ -57,7 +57,7 @@
 
 ## ⚡ GitHub Stats
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoMoreno&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sinistro&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leomoreno8&show_icons=true&theme=radical" alt="Github status" />
  
