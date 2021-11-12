@@ -8,7 +8,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LeonardoMoreno0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-m-781380139/)](https://www.linkedin.com/in/leonardo-m-781380139/)
+[![Linkedin Badge](https://img.shields.io/badge/-LeonardoMoreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-m-781380139/)](https://www.linkedin.com/in/leonardo-m-781380139/)
 [![Instagram Badge](https://img.shields.io/badge/-leomoreno_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leomoreno_/)](https://www.instagram.com/leomoreno_/)
 [![Gmail Badge](https://img.shields.io/badge/-silvamoreno.leonardo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvamoreno.leonardo@gmail.com)](mailto:silvamoreno.leonardo@gmail.com)
 
