@@ -3,8 +3,8 @@
 
 
 - :rocket: I’m currently working on [![imagem](https://user-images.githubusercontent.com/72169208/133176845-0d31c976-2aba-4702-b873-37e728067a8d.png)](https://bitzsoftwares.com.br/)
-- 🔭 I am currently about to start the Systems Development Analysis course at UTFPR University Pato Branco - PR!
-- 🌱 I'm currently focused on studies with PHP, ReactJS, Next.js, Vue.js, jQuery
+- 🔭 Systems Development Analysis course at UTFPR University Pato Branco - PR!
+- 🌱 I'm currently focused on studies with PHP, React, Next.js, Vue.js, jQuery
 
 
 
