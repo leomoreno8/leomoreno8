@@ -2,7 +2,7 @@
 <p align = "justify">Always looking for new challenges 
 
 
-- :rocket: I’m currently working on [![imagem](https://user-images.githubusercontent.com/72169208/133176845-0d31c976-2aba-4702-b873-37e728067a8d.png)](https://bitzsoftwares.com.br/)
+- :rocket: I’m currently working on GEW Tecnologia
 - 🔭 Systems Development Analysis course at UTFPR University Pato Branco - PR!
 - 🌱 I'm currently focused on studies with PHP, React, Next.js, Vue.js, jQuery
 
