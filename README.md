@@ -61,7 +61,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leomoreno8&show_icons=true&theme=radical" alt="Github status" />
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno8&layout=compact&langs_count=7&theme=dracula"/>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreno8&layout=compact&langs_count=7&theme=dracula"/> -->
  
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></small></p> -->
 <p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=leomoreno8" alt="dexternatan" /></p>
