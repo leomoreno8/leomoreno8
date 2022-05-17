@@ -4,7 +4,7 @@
 
 - :rocket: I’m currently working on Ali Crédito
 - 🔭 Systems Development Analysis course at UTFPR University Pato Branco - PR!
-- 🌱 I'm currently focused on studies with React, Next.js, TypeScript, PHP and Data Science and Data Analytics
+- 🌱 I'm currently focused on studies with React, Next.js, TypeScript, PHP, Data Science and Data Analytics
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LeonardoMoreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-m-781380139/)](https://www.linkedin.com/in/leonardo-m-781380139/)
