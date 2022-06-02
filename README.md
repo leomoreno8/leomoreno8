@@ -1,4 +1,4 @@
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">, I am Leonardo Moreno</h1>
+<h1 align = "justify"> Hi, I am Leonardo Moreno</h1>
 <p align = "justify">Always looking for new challenges 
 
 
