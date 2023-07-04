@@ -56,8 +56,5 @@
 [![wakatime](https://wakatime.com/badge/user/2015e25a-dbdc-4e01-86f2-6c9fa6024890.svg)](https://wakatime.com/@2015e25a-dbdc-4e01-86f2-6c9fa6024890)
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sinistro&theme=radical&layout=compact" alt="Github wakatime status" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leomoreno8&show_icons=true&theme=radical" alt="Github status" />
-
  
 <p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=leomoreno8" alt="dexternatan" /></p>
