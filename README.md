@@ -39,10 +39,6 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 💻 IDE
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 ## ⚡ GitHub Stats
 [![wakatime](https://wakatime.com/badge/user/2015e25a-dbdc-4e01-86f2-6c9fa6024890.svg)](https://wakatime.com/@2015e25a-dbdc-4e01-86f2-6c9fa6024890)
 <br>
