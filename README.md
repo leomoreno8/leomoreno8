@@ -42,11 +42,6 @@
 ## 💻 IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
- 
-## 💿 OS
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-
 
 ## ⚡ GitHub Stats
 [![wakatime](https://wakatime.com/badge/user/2015e25a-dbdc-4e01-86f2-6c9fa6024890.svg)](https://wakatime.com/@2015e25a-dbdc-4e01-86f2-6c9fa6024890)
