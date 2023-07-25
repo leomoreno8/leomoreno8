@@ -3,7 +3,7 @@
 
 
 - :rocket: I’m currently working on Ali Crédito as a Data Engineer
-- 🔭 Systems Development Analysis course at UTFPR University Pato Branco - PR!
+- 🔭 Graduated in Systems Development Analysis from UTFPR Universidade Pato Branco - PR!
 - 🌱 I'm currently focused on studies with React, Next.js, TypeScript, Python, Data Science, Data Analytics and MicroServices
 - 💡 I'm developing a giant web/mobile project that is my passion. You will soon hear about it.
 
