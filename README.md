@@ -4,7 +4,7 @@
 
 - 💡 I'm developing a giant web/mobile project that is my passion. You will soon hear about it.
 - :rocket: I’m currently working on Ali Crédito as a Software Engineer
-- 🔭 Graduated in Systems Development Analysis from UTFPR Universidade Pato Branco - PR!
+- 🔭 Graduated in Systems Development Analysis from UTFPR!
 - 🌱 I'm currently focused on studies with React, Next.js, TypeScript, Python and MicroServices
 
 
