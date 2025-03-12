@@ -3,9 +3,9 @@
 
 
 - 💡 I'm developing a giant web/mobile project that is my passion. You will soon hear about it.
-- :rocket: I’m currently working on Ali Crédito as a Software Engineer
+- :rocket: I’m currently working on BTG Pactual as a IT Analyst
 - 🔭 Graduated in Systems Development Analysis from UTFPR!
-- 🌱 I'm currently focused on studies with React, Next.js, TypeScript, Python and MicroServices
+- 🌱 I'm currently focused on studies with React, Next.js and TypeScript
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LeonardoMoreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-m-781380139/)](https://www.linkedin.com/in/leonardo-m-781380139/)
